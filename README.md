@@ -15,6 +15,7 @@ please first enter "chmod +x case1.sh" in the bash terminal.
 Then, execute the script by typing "./case1.sh."
 
 
+
 * To test Example 2,
 
 please first enter "chmod +x case2.sh" in the bash terminal. 
