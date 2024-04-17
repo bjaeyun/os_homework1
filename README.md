@@ -1,12 +1,34 @@
-# os_homework1
+# Operation System 
+## Homework1 Autojudge.c
 
----
-# AUTOJUDGE 프로젝트
+Team Number 1111
 
-AutoJudge 프로젝트는 자동 채점 시스템을 구현한 프로그램이다. 이 프로그램은 주어진 소스 코드를 컴파일하여 여러 테스트 케이스에 대해 실행하고, 실행 결과를 분석하여 정답 여부를 판단한다.
+2019019014 서범수
 
-# 사용방법
+2022041046 변재윤
 
-+ 프로그램을 실행할 때 -i, -a, -t 옵션을 사용하여 입력 디렉토리, 정답 디렉토리, 시간 제한을 지정한다.
-+ 실행 결과는 result.txt 파일에 저장된다.
-+ 테스트 케이스의 입력 파일과 정답 파일은 각각 input_dir과 answer_dir에 저장되어 있어야 한다.
+
+To test Example 1,
+
+please first enter "chmod +x case1.sh" in the bash terminal. 
+
+Then, execute the script by typing "./case1.sh."
+
+To test Example 2,
+
+please first enter "chmod +x case2.sh" in the bash terminal. 
+
+Then, execute the script by typing "./case2.sh."
+
+
+The "autojudge.c" file contains the source code, while result.txt is a text file used for temporarily storing the results.
+
+
+The "example" directory contains the input values and expected results for the first test case, along with the test code in "pathname.c". 
+
+The "example2" directory contains the input values and expected results for the second test case, along with the test code in "substr.c". 
+
+case1.sh and case2.sh are the bash scripts for each respective test case. 
+"autojudge.out" is the executable file.
+
+Thanks for watching README.
