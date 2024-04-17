@@ -7,7 +7,7 @@ Team Number 1111
 
 2022041046 변재윤
 
-
+---
 * To test Example 1,
 
 please first enter "chmod +x case1.sh" in the bash terminal. 
